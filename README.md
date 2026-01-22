@@ -1,51 +1,24 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-## 🚀 Introdução
+## 🧿 Título do Projeto Extremamente Aesthetic ;)
+Abismo Revelado: Entre o Real e o Sintético nas Profundezas do Oceano
 
-> Woooow! Look at this 👀
+## 🧭 Descrição
+Este projeto explora os mistérios do oceano profundo, utilizando IAs generativas para criar um guia visual e narrativo que parece ter sido retirado de uma revista científica de prestígio.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+## ⚓ Tecnologias Utilizadas
+• Gemini: Para criação do roteiro e narrativa humanizada.
+• Leonardo AI: Para geração de imagens fotorrealistas do fundo do mar.
+• Canva: Para diagramação e montagem final.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🌊 Processo de Criação
+Utilizei o Gemini com a técnica de persona (biólogo marinho) para gerar uma narrativa técnica e realista. As imagens foram criadas no Leonardo AI focando em termos de iluminação abissal e fotografia subaquática. A montagem final foi feita no Canva, onde busquei uma diagramação limpa que simulasse uma revista científica de prestígio.
 
-### Objetivos
+## 💎 Resultados
+O resultado final é um e-book visual e narrativo que simula uma publicação científica sobre o oceano profundo. As imagens geradas apresentam alto nível de realismo, com iluminação, textura da água e composição visual coerentes com registros reais de ambientes abissais. A narrativa foi construída para evitar descrições fantasiosas, priorizando um tom técnico e contemplativo, inspirado em documentários científicos. O projeto se enquadra como um “Fake Natty”, pois utiliza conteúdos sintéticos que se sustentam pela curadoria humana e pela intenção narrativa.
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+## 🔍 Reflexão
+O desafio principal foi garantir a consistência visual e evitar que a IA criasse elementos fantasiosos demais. O projeto provou ser um "Fake Natty" de sucesso, pois o resultado final caminha na linha tênue entre o real e o sintético. A conclusão é que a IA potencializa a criatividade, mas a curadoria humana é o que define o tom de realismo.
 
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+## 📘 E-book do Projeto
+[📥 Clique aqui para baixar o e-book](./ebook/Abismo_Revelado_DIO.pdf)
