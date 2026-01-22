@@ -21,4 +21,4 @@ O resultado final é um e-book visual e narrativo que simula uma publicação ci
 O desafio principal foi garantir a consistência visual e evitar que a IA criasse elementos fantasiosos demais. O projeto provou ser um "Fake Natty" de sucesso, pois o resultado final caminha na linha tênue entre o real e o sintético. A conclusão é que a IA potencializa a criatividade, mas a curadoria humana é o que define o tom de realismo.
 
 ## 📘 E-book do Projeto
-[📥 Clique aqui para baixar o e-book](./ebook/Abismo_Revelado_DIO.pdf)
+[📥 Clique aqui para baixar o e-book](https://github.com/le-emilie/lab-natty-or-not/raw/main/ebook/Abismo_Revelado_DIO.pdf)
